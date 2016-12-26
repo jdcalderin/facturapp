@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3933237aa4b54d816501f3bddf0a5882f077a6b7">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.wdullaer-materialdatetimepicker-2.1.0_66b528db3e2ab5806a8ad3e1b3b7d552cbcde397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_b3a3beb9295a2a3fae574e1a28128b6195879af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_e9846f5518d8de9e02d179f55cb96edb47b1475d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_53bf4721a79e90006ca5e357d5bfa29cde919421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_662105f5c3428031264cc272a36b3f22b3bdf406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_0ef59c89cf15072441c91ce1b7d961aaa3318a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calderjo\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.4_40a3771fed9b3c0e65188520be7e7c36c9577d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.4_3958ce571ba2f5cb73dc06abcf59ca5cc9d7ab17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_472b22686fa7c9e16fc2898bd5ebcf6e030e6524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_f30d9964209fe583fa10246b64b9987e9527432c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calderjo\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.10\247811bfc4d8f4e99c909236eadf4dfc6dfa1615\itextg-5.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="247811bfc4d8f4e99c909236eadf4dfc6dfa1615">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\itextg-5.5.10_803dfd6b36f6ce1da1bd6e34ac3480159180b676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calderjo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_4d289281539c99ae5d53afbefdd7fa583621316d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c14f37db87b8f8f7d62b77f6402de089232d37d0">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.2_fe58ca8f6247a420c059321a427929f897ba2a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\commons\0.8.5.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="467ec53bb8142183906c8bd2aa532a4fffacb730">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-commons-0.8.5.2_d0b6cdb891843950f701e873e2118844a6320780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_9fc4fa58f8793fda54f286eee4e3db596cdf1b30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_3230ca1a385991d24674eefbf11dfa80bd7e8f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_21deafb6c8034121f1856506e8560b8dd153052e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_c62d2d4cbeebe4beaa3a39ca3511ed88f3c603e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_7081f1254768a1194095166a7dc07f3a787f7df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calderjo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\gson-2.5_a0a59ef7e73df66909b2f40cac999837bb70cb6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_f0f6e8df877607e14f531ffc1f72b3928f6bbf09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dde1ea8573633db3da4e8c42d541bfa7d03d6720">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.github.rey5137-material-1.2.2_db7548b651da33296c8e4e8ab6f61420bee292f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calderjo\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT_4e902a3b02348f64c157537f3e4beeaaa2042733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_2b0cc5f045abac9a6851aa039883502faea244ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\PROYECTOS\codecanyon\Android Application\Invoicing\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_060e3f3b03a210a25e65ea3fef84edb9da00c80f.jar" />
+    </item>
+
+</items>

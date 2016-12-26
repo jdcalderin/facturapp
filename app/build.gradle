@@ -37,7 +37,7 @@ dependencies {
     compile 'com.github.rey5137:material:1.2.2'
     compile 'com.wdullaer:materialdatetimepicker:2.1.0'
     compile 'com.google.code.gson:gson:2.5'
-    compile files('libs/itext/itextg-5.5.4.jar')
+  //  compile files('libs/itext/itextg-5.5.4.jar')
     compile 'com.github.PhilJay:MPAndroidChart:v2.2.4'
     compile 'com.google.android.gms:play-services-ads:9.0.0'
     compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'

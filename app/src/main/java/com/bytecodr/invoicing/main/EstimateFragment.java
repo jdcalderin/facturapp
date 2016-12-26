@@ -235,7 +235,7 @@ public class EstimateFragment extends Fragment
                                 estimate.EstimateDueDate = obj.optInt("due_date", 0);
                                 estimate.TaxRate = obj.getDouble("tax_rate");
                                 estimate.TotalMoney = obj.getDouble("total");
-                                estimate.IsInvoiced = (obj.getInt("is_invoiced") == 1 ? true : false);
+                                estimate.IsInvoiced = (obj.getInt("is_invoiced") == 1);
 
                                 estimate.Created = obj.optInt("created_on", 0);
                                 estimate.Updated = obj.optInt("updated_on", 0);

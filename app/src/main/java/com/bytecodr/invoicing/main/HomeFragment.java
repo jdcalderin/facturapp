@@ -281,7 +281,7 @@ public class HomeFragment extends Fragment
                                 invoice.InvoiceDueDate = obj.optInt("due_date", 0);
                                 invoice.TaxRate = obj.getDouble("tax_rate");
                                 invoice.TotalMoney = obj.getDouble("total");
-                                invoice.IsPaid = (obj.getInt("is_paid") == 1 ? true : false);
+                                invoice.IsPaid = (obj.getInt("is_paid") == 1);
 
                                 invoice.Created = obj.optInt("created_on", 0);
                                 invoice.Updated = obj.optInt("updated_on", 0);

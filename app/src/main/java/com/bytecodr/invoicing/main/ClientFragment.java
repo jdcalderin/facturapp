@@ -237,7 +237,7 @@ public class ClientFragment extends Fragment
                                 item.State = helper_string.optString(obj, "state");
                                 item.Postcode = helper_string.optString(obj, "postcode");
                                 item.Country = helper_string.optString(obj, "country");
-                                item.TotalMoney = obj.optDouble("total", 0);;
+                                item.TotalMoney = obj.optDouble("total", 0);
 
                                 item.Created = obj.optInt("created_on", 0);
                                 item.Updated = obj.optInt("updated_on", 0);

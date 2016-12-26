@@ -30,7 +30,7 @@ public class EstimateAdapter extends ArrayAdapter<Estimate>
         this.context = context;
         this.values = values;
 
-        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
+        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, Context.MODE_PRIVATE);
         currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
         dateFormat = new SimpleDateFormat("dd. MMM yyyy");
     }

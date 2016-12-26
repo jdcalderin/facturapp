@@ -849,7 +849,7 @@ public class NewInvoiceActivity extends AppCompatActivity implements DatePickerD
             this.context = context;
             this.values = values;
 
-            SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
+            SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, MODE_PRIVATE);
             currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
         }
 

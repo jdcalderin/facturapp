@@ -1,0 +1,718 @@
+Index: app/src/main/java/com/bytecodr/invoicing/model/Item.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/model/Item.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/model/Item.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/NewItemActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/NewItemActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/NewItemActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/assets/microlog.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/assets/microlog.properties	(date 1482729429000)
++++ app/src/main/assets/microlog.properties	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/admob_bottom_banner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/admob_bottom_banner.xml	(date 1482729429000)
++++ app/src/main/res/layout/admob_bottom_banner.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/toolbar.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/toolbar.xml	(date 1482729429000)
++++ app/src/main/res/layout/toolbar.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/fragment_home.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_home.xml	(date 1482729429000)
++++ app/src/main/res/layout/fragment_home.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/menu/menu_new_invoice.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/menu_new_invoice.xml	(date 1482729429000)
++++ app/src/main/res/menu/menu_new_invoice.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/drawable/background_login.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/drawable/background_login.xml	(date 1482729429000)
++++ app/src/main/res/drawable/background_login.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_new_item.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_new_item.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_new_item.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/proguard-rules.pro
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/proguard-rules.pro	(date 1482729429000)
++++ app/proguard-rules.pro	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/LoginActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/LoginActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/LoginActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/dimens.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/dimens.xml	(date 1482729429000)
++++ app/src/main/res/values/dimens.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/helper/helper_number.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/helper/helper_number.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/helper/helper_number.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/setting_address_edit_layout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/setting_address_edit_layout.xml	(date 1482729429000)
++++ app/src/main/res/layout/setting_address_edit_layout.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/layout_estimate_row.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/layout_estimate_row.xml	(date 1482729429000)
++++ app/src/main/res/layout/layout_estimate_row.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/fragment_client.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_client.xml	(date 1482729429000)
++++ app/src/main/res/layout/fragment_client.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/menu/activity_main_drawer.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/activity_main_drawer.xml	(date 1482729429000)
++++ app/src/main/res/menu/activity_main_drawer.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/adapter/InvoiceAdapter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/adapter/InvoiceAdapter.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/adapter/InvoiceAdapter.java	(revision )
+@@ -30,7 +30,7 @@
+         this.context = context;
+         this.values = values;
+ 
+-        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
++        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, Context.MODE_PRIVATE);
+         currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
+         dateFormat = new SimpleDateFormat("dd. MMM yyyy");
+     }
+Index: app/src/main/java/com/bytecodr/invoicing/main/NewClientActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/NewClientActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/NewClientActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values-w820dp/dimens.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values-w820dp/dimens.xml	(date 1482729429000)
++++ app/src/main/res/values-w820dp/dimens.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/layout_estimate_item_row.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/layout_estimate_item_row.xml	(date 1482729429000)
++++ app/src/main/res/layout/layout_estimate_item_row.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/NewEstimateActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/NewEstimateActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/NewEstimateActivity.java	(revision )
+@@ -845,7 +845,7 @@
+             this.context = context;
+             this.values = values;
+ 
+-            SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
++            SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, MODE_PRIVATE);
+             currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
+         }
+ 
+Index: app/src/main/res/layout/activity_setting.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_setting.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_setting.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_new_client.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_new_client.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_new_client.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/layout_item_row.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/layout_item_row.xml	(date 1482729429000)
++++ app/src/main/res/layout/layout_item_row.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_new_estimate.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_new_estimate.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_new_estimate.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build.gradle	(date 1482729429000)
++++ app/build.gradle	(revision )
+@@ -41,4 +41,5 @@
+     compile 'com.github.PhilJay:MPAndroidChart:v2.2.4'
+     compile 'com.google.android.gms:play-services-ads:9.0.0'
+     compile 'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
++    compile 'com.itextpdf:itextg:5.5.10'
+ }
+Index: app/src/main/res/menu/main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/main.xml	(date 1482729429000)
++++ app/src/main/res/menu/main.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/menu/menu_item_picker.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/menu_item_picker.xml	(date 1482729429000)
++++ app/src/main/res/menu/menu_item_picker.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_login.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_login.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_login.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/InvoiceFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/InvoiceFragment.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/InvoiceFragment.java	(revision )
+@@ -257,7 +257,7 @@
+                                 invoice.InvoiceDueDate = obj.optInt("due_date", 0);
+                                 invoice.TaxRate = obj.getDouble("tax_rate");
+                                 invoice.TotalMoney = obj.getDouble("total");
+-                                invoice.IsPaid = (obj.getInt("is_paid") == 1 ? true : false);
++                                invoice.IsPaid = (obj.getInt("is_paid") == 1);
+ 
+                                 invoice.Created = obj.optInt("created_on", 0);
+                                 invoice.Updated = obj.optInt("updated_on", 0);
+Index: app/src/main/res/layout/activity_register.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_register.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_register.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/RegisterActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/RegisterActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/RegisterActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/HomeFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/HomeFragment.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/HomeFragment.java	(revision )
+@@ -281,7 +281,7 @@
+                                 invoice.InvoiceDueDate = obj.optInt("due_date", 0);
+                                 invoice.TaxRate = obj.getDouble("tax_rate");
+                                 invoice.TotalMoney = obj.getDouble("total");
+-                                invoice.IsPaid = (obj.getInt("is_paid") == 1 ? true : false);
++                                invoice.IsPaid = (obj.getInt("is_paid") == 1);
+ 
+                                 invoice.Created = obj.optInt("created_on", 0);
+                                 invoice.Updated = obj.optInt("updated_on", 0);
+Index: app/src/main/res/layout/fragment_item.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_item.xml	(date 1482729429000)
++++ app/src/main/res/layout/fragment_item.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/menu/menu_new_estimate.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/menu_new_estimate.xml	(date 1482729429000)
++++ app/src/main/res/menu/menu_new_estimate.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/network/MySingleton.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/network/MySingleton.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/network/MySingleton.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_new_invoice.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_new_invoice.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_new_invoice.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/layout_invoice_item_row.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/layout_invoice_item_row.xml	(date 1482729429000)
++++ app/src/main/res/layout/layout_invoice_item_row.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/libs/itext/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/libs/itext/pom.xml	(date 1482729429000)
++++ app/libs/itext/pom.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/fragment_invoice.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_invoice.xml	(date 1482729429000)
++++ app/src/main/res/layout/fragment_invoice.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/ItemPickerActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/ItemPickerActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/ItemPickerActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/NewInvoiceActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/NewInvoiceActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/NewInvoiceActivity.java	(revision )
+@@ -849,7 +849,7 @@
+             this.context = context;
+             this.values = values;
+ 
+-            SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
++            SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, MODE_PRIVATE);
+             currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
+         }
+ 
+Index: app/src/main/java/com/bytecodr/invoicing/network/Network.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/network/Network.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/network/Network.java	(revision )
+@@ -20,15 +20,8 @@
+         final ConnectivityManager connMgr = (ConnectivityManager) context
+                 .getSystemService(Context.CONNECTIVITY_SERVICE);
+ 
+-        if (connMgr.getActiveNetworkInfo() != null
++        return connMgr.getActiveNetworkInfo() != null
+                 && connMgr.getActiveNetworkInfo().isAvailable()
+-                && connMgr.getActiveNetworkInfo().isConnected())
+-        {
+-            return true;
+-        }
+-        else
+-        {
+-            return false;
+-        }
++                && connMgr.getActiveNetworkInfo().isConnected();
+     }
+ }
+Index: app/src/main/res/layout/layout_invoice_row.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/layout_invoice_row.xml	(date 1482729429000)
++++ app/src/main/res/layout/layout_invoice_row.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/menu/menu_new_item.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/menu_new_item.xml	(date 1482729429000)
++++ app/src/main/res/menu/menu_new_item.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/MainActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/MainActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_item_picker.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_item_picker.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_item_picker.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/model/BaseModel.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/model/BaseModel.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/model/BaseModel.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/drawables.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/drawables.xml	(date 1482729429000)
++++ app/src/main/res/values/drawables.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/attrs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/attrs.xml	(date 1482729429000)
++++ app/src/main/res/values/attrs.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/menu/menu_new_client.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/menu/menu_new_client.xml	(date 1482729429000)
++++ app/src/main/res/menu/menu_new_client.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_setting_logo.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_setting_logo.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_setting_logo.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/app_bar_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/app_bar_main.xml	(date 1482729429000)
++++ app/src/main/res/layout/app_bar_main.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/adapter/ItemAdapter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/adapter/ItemAdapter.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/adapter/ItemAdapter.java	(revision )
+@@ -28,7 +28,7 @@
+         this.context = context;
+         this.values = values;
+ 
+-        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
++        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, Context.MODE_PRIVATE);
+         currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
+     }
+ 
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/AndroidManifest.xml	(date 1482729429000)
++++ app/src/main/AndroidManifest.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/custom_simple_spinner_item.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/custom_simple_spinner_item.xml	(date 1482729429000)
++++ app/src/main/res/layout/custom_simple_spinner_item.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/model/Estimate.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/model/Estimate.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/model/Estimate.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(date 1482729429000)
++++ app/src/main/res/layout/activity_main.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values-v21/styles.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values-v21/styles.xml	(date 1482729429000)
++++ app/src/main/res/values-v21/styles.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/helper/helper_string.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/helper/helper_string.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/helper/helper_string.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/adapter/ClientAdapter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/adapter/ClientAdapter.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/adapter/ClientAdapter.java	(revision )
+@@ -28,7 +28,7 @@
+         this.context = context;
+         this.values = values;
+ 
+-        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
++        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, Context.MODE_PRIVATE);
+         currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
+     }
+ 
+Index: app/src/main/res/layout/layout_client_row.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/layout_client_row.xml	(date 1482729429000)
++++ app/src/main/res/layout/layout_client_row.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/SettingActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/SettingActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/SettingActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/EstimateFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/EstimateFragment.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/EstimateFragment.java	(revision )
+@@ -235,7 +235,7 @@
+                                 estimate.EstimateDueDate = obj.optInt("due_date", 0);
+                                 estimate.TaxRate = obj.getDouble("tax_rate");
+                                 estimate.TotalMoney = obj.getDouble("total");
+-                                estimate.IsInvoiced = (obj.getInt("is_invoiced") == 1 ? true : false);
++                                estimate.IsInvoiced = (obj.getInt("is_invoiced") == 1);
+ 
+                                 estimate.Created = obj.optInt("created_on", 0);
+                                 estimate.Updated = obj.optInt("updated_on", 0);
+Index: app/src/main/java/com/bytecodr/invoicing/model/Invoice.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/model/Invoice.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/model/Invoice.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/styles.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/styles.xml	(date 1482729429000)
++++ app/src/main/res/values/styles.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/setting_currency_edit_layout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/setting_currency_edit_layout.xml	(date 1482729429000)
++++ app/src/main/res/layout/setting_currency_edit_layout.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/adapter/EstimateAdapter.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/adapter/EstimateAdapter.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/adapter/EstimateAdapter.java	(revision )
+@@ -30,7 +30,7 @@
+         this.context = context;
+         this.values = values;
+ 
+-        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, context.MODE_PRIVATE);
++        SharedPreferences settings = context.getSharedPreferences(LoginActivity.SESSION_USER, Context.MODE_PRIVATE);
+         currency = settings.getString(SettingActivity.CURRENCY_SYMBOL_KEY, "$");
+         dateFormat = new SimpleDateFormat("dd. MMM yyyy");
+     }
+Index: app/src/main/java/com/bytecodr/invoicing/main/ClientFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/ClientFragment.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/ClientFragment.java	(revision )
+@@ -237,7 +237,7 @@
+                                 item.State = helper_string.optString(obj, "state");
+                                 item.Postcode = helper_string.optString(obj, "postcode");
+                                 item.Country = helper_string.optString(obj, "country");
+-                                item.TotalMoney = obj.optDouble("total", 0);;
++                                item.TotalMoney = obj.optDouble("total", 0);
+ 
+                                 item.Created = obj.optInt("created_on", 0);
+                                 item.Updated = obj.optInt("updated_on", 0);
+Index: app/src/main/java/com/bytecodr/invoicing/main/ItemFragment.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/ItemFragment.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/ItemFragment.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/fragment_estimate.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_estimate.xml	(date 1482729429000)
++++ app/src/main/res/layout/fragment_estimate.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/main/SettingLogoActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/main/SettingLogoActivity.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/main/SettingLogoActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/colors.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/colors.xml	(date 1482729429000)
++++ app/src/main/res/values/colors.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/bytecodr/invoicing/model/Client.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/bytecodr/invoicing/model/Client.java	(date 1482729429000)
++++ app/src/main/java/com/bytecodr/invoicing/model/Client.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/nav_header_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/nav_header_main.xml	(date 1482729429000)
++++ app/src/main/res/layout/nav_header_main.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/strings.xml	(date 1482729429000)
++++ app/src/main/res/values/strings.xml	(revision )
+@@ -1,0 +1,0 @@

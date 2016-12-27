@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Facturapp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sign_up_login">No Account? <b><u>Sign Up</u></b></string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="progress_dialog">Cargando...</string>
+    <string name="please_wait">por favor espere</string>
+
+    <string name="error_try_again_support">Error, por favor intente de nuevo</string>
+    <string name="title_activity_settings">Configuración</string>
+    <string name="title_activity_items">Productos</string>
+    <string name="title_activity_home">Inicio</string>
+    <string name="title_activity_clients">Clientes</string>
+    <string name="title_activity_estimates">Estimates</string>
+    <string name="title_activity_invoices">Facturas</string>
+
+    <string name="title_activity_new_item">Nuevo Producto</string>
+    <string name="title_activity_new_client">Nuevo Cliente</string>
+    <string name="title_activity_new_estimate">New Estimate</string>
+    <string name="title_activity_new_invoice">Nueva Factura</string>
+    <string name="title_activity_item_picker">Selección producto</string>
+
+    <string name="name">Nombre</string>
+    <string name="rate">Precio</string>
+    <string name="quantity">Cantidad</string>
+    <string name="description">Descripción</string>
+
+    <string name="email_invoice">Email Factura</string>
+    <string name="download_pdf">Descargar PDF</string>
+
+    <string name="save">Guardar</string>
+    <string name="delete">Borrar</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_item">Borrar Elemento?</string>
+    <string name="save_successful">Guardado correctamente</string>
+
+    <string name="email">Email</string>
+    <string name="address1">Dirección 1</string>
+    <string name="address2">Dirección 2</string>
+    <string name="city">Ciudad</string>
+    <string name="state">Departamento</string>
+    <string name="postcode_zip">Postcode / Zip</string>
+    <string name="country">Pais</string>
+
+    <string name="invoice_number">Factura #</string>
+    <string name="estimate_number">Estimado #</string>
+    <string name="tax_rate">Iva (%)</string>
+    <string name="client_notes">Notas Cliente</string>
+    <string name="notes">Observación</string>
+    <string name="client">Cliente</string>
+    <string name="items">Productos</string>
+    <string name="invoice_date">Fecha Factura</string>
+    <string name="invoice_due_date">Fecha vencimiento</string>
+    <string name="estimate_date">Estimate Date</string>
+    <string name="estimate_due_date">Expiry Date</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="balance_due">saldo deuda</string>
+    <string name="tax">Impuesto</string>
+    <string name="invoice_number_required">Numero factura requerido</string>
+    <string name="estimate_number_required">Estimate number required</string>
+    <string name="client_required">Cliente Requerido</string>
+
+    <string name="or">Ó</string>
+    <string name="paid">Pagado</string>
+    <string name="payment_received">Pago Recivido?</string>
+    <string name="items_required">Producto requerido. Adicione producto.</string>
+    <string name="convert_to_invoice">Convert to Invoice</string>
+    <string name="invoiced">Facturado</string>
+    <string name="email_estimate">Email Estimate</string>
+    <string name="currency_format_example">Ejemplo Formato de moneda:</string>
+    <string name="item">Producto</string>
+    <string name="amount">Cantidad</string>
+    <string name="invoice_capitalized">INVOICE</string>
+    <string name="invoice">Factura</string>
+    <string name="estimate_capitalized">ESTIMATE</string>
+    <string name="estimate">Estimate</string>
+    <string name="page_no">Pagina No.</string>
+    <string name="payment_made">Payment Made</string>
+    <string name="invoice_email_subject">Invoice %1$s from %2$s %3$s</string>
+    <string name="invoice_email_text">Dear %1$s,\n\n  Thank you for your business. \n\n  Please find attached your invoice %2$s.\n\n Kind Regards \n\n %3$s %4$s</string>
+    <string name="estimate_email_subject">Estimate %1$s from %2$s %3$s</string>
+    <string name="estimate_email_text">Dear %1$s,\n\n  Thank you for contacting us. \n\n  Please find attached your estimate %2$s.\n\n Kind Regards \n\n %3$s %4$s</string>
+
+    <string name="pdf_not_created">PDF could not be created</string>
+    <string name="unpaid">Deuda</string>
+
+    <string name="currency">Moneda</string>
+    <string name="address">Direccion</string>
+    <string name="logout">Salir</string>
+
+    <string name="title_activity_setting">Configuración</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_setting_logo">Settings Logo</string>
+    <string name="logo_info_text">Upload a logo of size 180px x 80px</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> <!-- Replace with YOUR Admob banner id -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string><!-- Replace with YOUR Admob interstitial id -->
+
+</resources>

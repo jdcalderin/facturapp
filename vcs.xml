@@ -6,8 +6,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="jdcalderin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jdcalderin/LaboratorioFisica1" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Proyectos" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Proyectos/FacturacionMovil/codecanyon-16456143-android-invoices-estimates-template-admob-admin-panel/Android Application/Invoicing" />
